@@ -4,3 +4,4 @@ rock smashes sissor <br>
 paper covers rock <br>
 sissor cuts paper <br>
 go through the game to see the spock and the other one
+
