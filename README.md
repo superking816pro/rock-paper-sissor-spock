@@ -1,7 +1,6 @@
 # rock-paper-sissor-spock
 <br>
-<h1>please download the latest update 1.2.6:  
-<a herf="https://github.com/superking816pro/rock-paper-sissor-spock/releases/tag/1.2.6">click here to download the latest update 1.2.6</a></h1>
+<h1>please download the latest update 1.2.6:  </h1><a herf="https://github.com/superking816pro/rock-paper-sissor-spock/releases/tag/1.2.6">click here to download the latest update 1.2.6</a>
 <br>
 this is a rock paper sissor plus spock game <br>
 <img
